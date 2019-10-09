@@ -5,10 +5,10 @@ Mobile Price analysis and Visualization with Machine learning algorithms
 1) **Import Libraries**
 2) **Dataset Processing**
 3) **Data Visualization**
-      ![ram_price](model_images/viz.PNG)
+    * ![ram_price](model_images/viz.PNG)
       
    * **Feature Importance**
-      ![ram_price](model_images/fimp.PNG)
+    * ![ram](model_images/fimp.PNG)
    
 4) **Model Building With ML-Algos**
    * Logistic Regression
@@ -21,12 +21,12 @@ Mobile Price analysis and Visualization with Machine learning algorithms
    * XG-Boost
       
    * **Performance measure**
-      ![ram_price](model_images/models_acc.PNG)
+    * ![ram_price](model_images/models_acc.PNG)
    
 5) **Hyper Parameter Tuning**
    * all Machine Learning algorithm are tuned with with their parameters for more accuracy.    
    * Classification report after applying **Tuning** the parameters
-      ![ram_price](model_images/classification_report.PNG)
+    * ![ram_price](model_images/classification_report.PNG)
    
 6) **Learning Curves**
-      ![ram_price](model_images/learning_curves.PNG)
+    * ![ram_price](model_images/learning_curves.PNG)
